@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chirag Surana
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me chiragsurana001@gmail.com 
 
